@@ -10,6 +10,8 @@ sudo ln -s /var/lib/snapd/desktop/applications/ /usr/share/applications/snap
 ```
 sudo add-apt-repository ppa:git-core/ppa -y sudo apt update
 sudo apt install -y git make docker-compose snapd
+```
+```
 sudo snap install telegram-desktop
 sudo snap install phpstorm --classic
 sudo snap install sublime-text --classic
