@@ -15,6 +15,7 @@ sudo apt install -y git make docker-compose snapd
 sudo snap install telegram-desktop
 sudo snap install phpstorm --classic
 sudo snap install sublime-text --classic
+sudo snap install flameshot
 ```
 
 ## Permissions
